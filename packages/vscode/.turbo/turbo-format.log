@@ -1,0 +1,8 @@
+
+
+> nothing-vscode-icons@0.0.1 format /Users/hieudoan/git/github.com/hieudoanm/apps/extensions/packages/vscode/icons
+> prettier --cache --write .
+
+.gitignore[2K[1G.node-version[2K[1G.npmrc[2K[1G.nvmrc[2K[1G.prettierignore[2K[1G.prettierrc.json[2K[1G[90m.prettierrc.json[39m 22ms (unchanged)
+.turbo/turbo-format.log[2K[1Gicons/nothing/css.svg[2K[1Gicons/original/css.svg[2K[1GLICENSE[2K[1Gpackage.json[2K[1G[90mpackage.json[39m 2ms (unchanged)
+README.md[2K[1G[90mREADME.md[39m 12ms (unchanged)
