@@ -1,0 +1,33 @@
+{
+  "name": "@bci/app",
+  "version": "0.0.1",
+  "description": "BCI - Brain Computer Interface",
+  "keywords": [
+    "bci",
+    "brain",
+    "computer",
+    "interface"
+  ],
+  "homepage": "https://github.com/hieudoanm/bci#readme",
+  "bugs": {
+    "url": "https://github.com/hieudoanm/bci/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieudoanm/bci.git"
+  },
+  "license": "GPL-3.0",
+  "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
+  "packageManager": "pnpm@10.24.0",
+  "scripts": {
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "build": "turbo run build",
+    "format": "turbo run format",
+    "prepare": "husky || true"
+  },
+  "devDependencies": {
+    "husky": "9.1.7",
+    "turbo": "2.6.1"
+  }
+}
